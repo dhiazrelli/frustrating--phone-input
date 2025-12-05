@@ -92,3 +92,4 @@ Tap one of the golden digit buttons to select the final digit of your phone numb
 8. Catch fish with digit
 9. Complete rhythm → pick digit
 10. Choose final digit button
+## this is a react project , npm start to run 
