@@ -55,7 +55,7 @@ export default function PhoneNumberGame() {
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-violet-900 flex flex-col items-center justify-center p-4">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold text-white mb-4">
-          📱 Phone Number Generator
+          📱 Phone Number Input
         </h1>
         <div className="text-2xl text-white mb-4">
           Phase {currentPhase}/10 - Get Digit {currentPhase}
